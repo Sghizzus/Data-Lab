@@ -4,11 +4,15 @@ project:
 
 website:
   title: "Data Lab"
+  site-url: https://sghizzus.github.io/Data-Lab/
+  description: "Un blog per parlare del mondo attraverso i dati"
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/Sghizzus/
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme: 

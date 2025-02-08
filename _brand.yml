@@ -1,0 +1,76 @@
+meta:
+  name:
+    short: Data Lab
+    full: Data Lab di Ivan
+  link:
+    home: https://datalabdiivan.com
+    github: https://github.com/Sghizzus/ivanmarino
+
+logo:
+  images:
+    header: logos/header-logo.png
+    full:
+      path: logos/full-logo.png
+      alt: Data Lab di Ivan logo.
+  small: logos/icon.png
+  medium:
+    light: header
+    dark: header
+  large: full
+
+color:
+  palette:
+    white: "#FFFFFF"
+    black: "#151515"
+    blue: "#2FA4E7"
+    indigo: "#6610f2"
+    purple: "#6f42c1"
+    pink: "#d63384"
+    red: "#dc3545"
+    orange: "#fd7e14"
+    yellow: "#ffc107"
+    green: "#198754"
+    teal: "#20c997"
+    cyan: "#0dcaf0"
+    gray: "#6c757d"
+    gray-dark: "#343a40"
+
+  foreground: black
+  background: white
+  primary: blue
+  secondary: gray
+  success: green
+  info: cyan
+  warning: orange
+  danger: red
+  light: white
+  dark: gray-dark
+
+typography:
+  fonts:
+    - family: Open Sans
+      source: google
+      weight: [400, 600, 700]
+      style: [normal, italic]
+    - family: Roboto Mono
+      source: google
+      weight: [400, 500, 700]
+      style: [normal, italic]
+  base:
+    family: Open Sans
+    weight: 400
+    size: 16px
+    line-height: 1.5
+  headings:
+    family: Open Sans
+    weight: 700
+    line-height: 1.2
+    color: primary
+  monospace:
+    family: Roboto Mono
+    weight: 400
+    size: 0.9em
+  link:
+    weight: 600
+    color: primary
+    decoration: underline

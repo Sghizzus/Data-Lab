@@ -1,19 +1,30 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile2.jpg
 about:
+  id: hero-heading
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/ivan-marino-3913881b4/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/Sghizzus
 ---
 
-About this blog
+Sono Ivan Marino, e attualmente lavoro in U.P.I.P.A. come Referente in area Statistico Informatica. Ho diversi interessi: cerco di tenermi aggiornato con le attualità, mi piace viaggiare, giocare al computer o alla play ogni tanto, e approfondire tutto ciò che riguarda l'ambito scientifico, con focus particolare in statistica e Data Science.
+
+## Istruzione
+
+Università degli Studi di Trento \| Trento
+
+Laurea magistrale in Matematica, indirizzo Mathematics for Life and Data Sciences \| Set 2017 - Dic 2019
+
+## Esperienza
+
+U.P.I.P.A. \| Referente Area Statistico-Informatica \| Ottobre 2021 - presente
+
+Exekon \| Assistant Project Manager \| Ottobre 2019 - Ottobre 2021
+
+CNH Industrial \| Tirocinio \| Marzo 2019 - Ottobre 2019

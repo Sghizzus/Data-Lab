@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Data Lab",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 26, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 23, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n26 gen 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n23 gen 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNessun risultato"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -25,6 +25,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Sono Ivan Marino, e attualmente lavoro in U.P.I.P.A. come Referente in area Statistico Informatica. Ho diversi interessi: cerco di tenermi aggiornato con le attualità, mi piace viaggiare, giocare al computer o alla play ogni tanto, e approfondire tutto ciò che riguarda l’ambito scientifico, con focus particolare in statistica e Data Science."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversità degli Studi di Trento | Trento\nLaurea magistrale in Matematica, indirizzo Mathematics for Life and Data Sciences | Settembre 2017 - Dicembre 2019"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nU.P.I.P.A. | Referente Area Statistico-Informatica | Ottobre 2021 - presente\nExekon | Assistant Project Manager | Ottobre 2019 - Ottobre 2021\nCNH Industrial | Tirocinio | Marzo 2019 - Ottobre 2019"
+  },
+  {
+    "objectID": "about.html#istruzione",
+    "href": "about.html#istruzione",
+    "title": "About",
+    "section": "Istruzione",
+    "text": "Istruzione\nUniversità degli Studi di Trento | Trento\nLaurea magistrale in Matematica, indirizzo Mathematics for Life and Data Sciences | Set 2017 - Dic 2019"
+  },
+  {
+    "objectID": "about.html#esperienza",
+    "href": "about.html#esperienza",
+    "title": "About",
+    "section": "Esperienza",
+    "text": "Esperienza\nU.P.I.P.A. | Referente Area Statistico-Informatica | Ottobre 2021 - presente\nExekon | Assistant Project Manager | Ottobre 2019 - Ottobre 2021\nCNH Industrial | Tirocinio | Marzo 2019 - Ottobre 2019"
   }
 ]

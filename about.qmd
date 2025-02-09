@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile2.jpg
+image: profile.jpg
 about:
   id: hero-heading
   template: jolla

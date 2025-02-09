@@ -1,0 +1,1 @@
+Questo è il repository in cui gestirò il mio blog. Questo blog è un esperimento per mettermi alla prova e non ho idea della frequenza di aggiornamento visto che non ho tanto tempo a disposizione. Cercherò di portarlo avanti un po' alla volta, anche solo come strumento per presentare le mie capacità

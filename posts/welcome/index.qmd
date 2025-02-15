@@ -1,12 +1,10 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-01-23"
+title: "Benvenuti nel mio blog"
+author: "Ivan Marino"
+date: "2025-02-09"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
-
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Questo blog è un piccolo esperimento che porterò avanti nel mio ben scarso tempo libero. Non di meno, spero di rendere questo blog uno strumento per vedere il mondo che ci circonda attraverso i dati. A volte saranno solo delle analisi più ricreative, altre volte magari saranno rivolte a temi più impattanti a lievllo sociale in Italia per cercare di capire come stanno veramente le cose. Chi lo sà, vedremo insieme come si svilupperà questo blog.

@@ -10,7 +10,27 @@
 <atom:link href="https://sghizzus.github.io/Data-Lab/index.xml" rel="self" type="application/rss+xml"/>
 <description>Un blog per parlare del mondo attraverso i dati</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Sat, 25 Jan 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Benvenuti nel mio blog</title>
+  <dc:creator>Ivan Marino</dc:creator>
+  <link>https://sghizzus.github.io/Data-Lab/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://sghizzus.github.io/Data-Lab/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Questo blog è un piccolo esperimento che porterò avanti nel mio ben scarso tempo libero. Non di meno, spero di rendere questo blog uno strumento per vedere il mondo che ci circonda attraverso i dati. A volte saranno solo delle analisi più ricreative, altre volte magari saranno rivolte a temi più impattanti a lievllo sociale in Italia per cercare di capire come stanno veramente le cose. Chi lo sà, vedremo insieme come si svilupperà questo blog.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://sghizzus.github.io/Data-Lab/posts/welcome/</guid>
+  <pubDate>Sat, 08 Feb 2025 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
@@ -44,27 +64,6 @@ font-style: inherit;">1</span></span></code></pre></div>
   <guid>https://sghizzus.github.io/Data-Lab/posts/post-with-code/</guid>
   <pubDate>Sat, 25 Jan 2025 23:00:00 GMT</pubDate>
   <media:content url="https://sghizzus.github.io/Data-Lab/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://sghizzus.github.io/Data-Lab/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://sghizzus.github.io/Data-Lab/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://sghizzus.github.io/Data-Lab/posts/welcome/</guid>
-  <pubDate>Wed, 22 Jan 2025 23:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

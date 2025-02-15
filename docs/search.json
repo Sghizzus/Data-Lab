@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Data Lab",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n26 gen 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n23 gen 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNessun risultato"
+    "text": "Benvenuti nel mio blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n9 feb 2025\n\n\nIvan Marino\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n26 gen 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\nNessun risultato"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Benvenuti nel mio blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Questo blog è un piccolo esperimento che porterò avanti nel mio ben scarso tempo libero. Non di meno, spero di rendere questo blog uno strumento per vedere il mondo che ci circonda attraverso i dati. A volte saranno solo delle analisi più ricreative, altre volte magari saranno rivolte a temi più impattanti a lievllo sociale in Italia per cercare di capire come stanno veramente le cose. Chi lo sà, vedremo insieme come si svilupperà questo blog."
   },
   {
     "objectID": "about.html",

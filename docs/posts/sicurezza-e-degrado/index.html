@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Marino">
 
-<title>Benvenuti nel mio blog – Data Lab</title>
+<title>Sicurezza e stato di degrado delle città e delle loro periferie – Data Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-9db206749fbbea1b9f31ac84516acc23.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-29be36d356098f379a9a13cae8276902.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-b7034ee10c17761ae02649ef2874f60f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,6 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Ricerca"
   }
 }</script>
+<meta name="quarto:status" content="draft">
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -75,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner"><div id="quarto-draft-alert" class="alert alert-warning"><i class="bi bi-pencil-square"></i>Bozza</div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -117,9 +118,9 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Benvenuti nel mio blog</h1>
+      <h1 class="title">Sicurezza e stato di degrado delle città e delle loro periferie</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">news</div>
+                <div class="quarto-category">analysis</div>
               </div>
                   </div>
   </div>
@@ -137,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Data di Pubblicazione</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">9 febbraio 2025</p>
+        <p class="date">15 febbraio 2025</p>
       </div>
     </div>
     
@@ -156,10 +157,27 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><img src="thumbnail.jpg" class="img-fluid"></p>
-<p>Questo blog è un piccolo esperimento che porterò avanti nel mio ben scarso tempo libero. Non di meno, spero di rendere questo blog uno strumento per vedere il mondo che ci circonda attraverso i dati. A volte saranno solo delle analisi più ricreative, altre volte magari saranno rivolte a temi più impattanti a lievllo sociale in Italia per cercare di capire come stanno veramente le cose. Chi lo sà, vedremo insieme come si svilupperà questo blog.</p>
+<p>In giugno 2024 l’ISTAT ha pubblicato i dati di 14 provincie italiane in merito a diversi indicatori demografici e socio-economici calcolati sulla base dei dati del Censimento permanente del 2021 suddivisi per aree subcomunali (<a href="https://www.istat.it/audizioni/sicurezza-e-stato-di-degrado-delle-citta-e-delle-loro-periferie/">ISTAT</a>). I dati sono stati raccolti per valutare le condizioni di sicurezza e sullo stato di degrado delle città e delle loro periferie. Proviamo quindi ad esplorare insieme questo dataset per vedere cosa ne possiamo trarre di interessante.</p>
+<section id="impatto-degli-stranieri-residenti-sullindice-di-vecchiaia" class="level1">
+<h1>Impatto degli stranieri residenti sull’indice di vecchiaia</h1>
+<p>Nel <a href="#fig-incidenza-stranieri-vecchiaia" class="quarto-xref">Figura&nbsp;1</a> è visualizzato l’andamento dell’indice di vecchiaia in funzione dell’incidenza dei residenti stranieri. L’incidenza dei residenti stranieri esprime il numero di cittadini stranieri ogni mille abitanti, mentre l’incidenza di vecchia è definito come numero di residenti over 64 ogni 100 residenti con meno di 15 anni. Si può notare che l’indice di vecchiaia è tendenzialmente in calo all’aumentare dell’incidenza straniera nelle varie aree subcomunali. I punti sono visualizzati con colori diversi in base alla provincia di appartenenza. Non risulta evidente a prima vista delle differenze sostanziali da provincia a provincia.</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div id="fig-incidenza-stranieri-vecchiaia" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-incidenza-stranieri-vecchiaia-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="index_files/figure-html/fig-incidenza-stranieri-vecchiaia-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-incidenza-stranieri-vecchiaia-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figura&nbsp;1: Incidenza di residenti stranieri e indice di vecchiai delle diverse aree subcomunali
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

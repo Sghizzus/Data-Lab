@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Data Lab",
     "section": "",
-    "text": "Benvenuti nel mio blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n9 feb 2025\n\n\nIvan Marino\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n26 gen 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\nNessun risultato"
+    "text": "Benvenuti nel mio blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n9 feb 2025\n\n\nIvan Marino\n\n\n\n\n\n\nNessun risultato"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -54,5 +54,12 @@
     "title": "About",
     "section": "Esperienza",
     "text": "Esperienza\nU.P.I.P.A. | Referente Area Statistico-Informatica | Ottobre 2021 - presente\nExekon | Assistant Project Manager | Ottobre 2019 - Ottobre 2021\nCNH Industrial | Tirocinio | Marzo 2019 - Ottobre 2019"
+  },
+  {
+    "objectID": "posts/sicurezza-e-degrado/index.html",
+    "href": "posts/sicurezza-e-degrado/index.html",
+    "title": "Sicurezza e stato di degrado delle città e delle loro periferie",
+    "section": "",
+    "text": "In giugno 2024 l’ISTAT ha pubblicato i dati di 14 provincie italiane in merito a diversi indicatori demografici e socio-economici calcolati sulla base dei dati del Censimento permanente del 2021 suddivisi per aree subcomunali (ISTAT). I dati sono stati raccolti per valutare le condizioni di sicurezza e sullo stato di degrado delle città e delle loro periferie. Proviamo quindi ad esplorare insieme questo dataset per vedere cosa ne possiamo trarre di interessante.\n\nImpatto degli stranieri residenti sull’indice di vecchiaia\nNel Figura 1 è visualizzato l’andamento dell’indice di vecchiaia in funzione dell’incidenza dei residenti stranieri. L’incidenza dei residenti stranieri esprime il numero di cittadini stranieri ogni mille abitanti, mentre l’incidenza di vecchia è definito come numero di residenti over 64 ogni 100 residenti con meno di 15 anni. Si può notare che l’indice di vecchiaia è tendenzialmente in calo all’aumentare dell’incidenza straniera nelle varie aree subcomunali. I punti sono visualizzati con colori diversi in base alla provincia di appartenenza. Non risulta evidente a prima vista delle differenze sostanziali da provincia a provincia.\n\n\n\n\n\n\n\n\nFigura 1: Incidenza di residenti stranieri e indice di vecchiai delle diverse aree subcomunali"
   }
 ]

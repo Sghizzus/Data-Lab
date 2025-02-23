@@ -31,39 +31,5 @@
   <guid>https://sghizzus.github.io/Data-Lab/posts/welcome/</guid>
   <pubDate>Sat, 08 Feb 2025 23:00:00 GMT</pubDate>
 </item>
-<item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://sghizzus.github.io/Data-Lab/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://sghizzus.github.io/Data-Lab/posts/post-with-code/</guid>
-  <pubDate>Sat, 25 Jan 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://sghizzus.github.io/Data-Lab/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
 </channel>
 </rss>

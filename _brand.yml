@@ -59,17 +59,12 @@ typography:
   base:
     family: Open Sans
     weight: 400
-    size: 16px
-    line-height: 1.5
   headings:
     family: Open Sans
     weight: 700
-    line-height: 1.2
-    color: primary
   monospace:
     family: Roboto Mono
     weight: 400
-    size: 0.9em
   link:
     weight: 600
     color: primary

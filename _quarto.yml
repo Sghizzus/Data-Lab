@@ -15,6 +15,8 @@ website:
         href: index.xml
 format:
   html:
+    fig-width: 6
+    fig-asp: 0.618
     theme: 
       - cerulean
       - brand
@@ -23,3 +25,16 @@ format:
 editor: visual
 
 lang: it
+
+execute:
+  echo: false
+  warning: false
+  error: false
+  message: false
+  
+knitr:
+  opts_chunk: 
+    out-width: "70%"
+    fig-align: center
+    fig_retina: 1
+    fig.showtext: true
